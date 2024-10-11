@@ -1,7 +1,5 @@
-# Overview
-
-
 # Relevant LLM Papers and Links
+
 
 In an attempt to catalog some of the relevant LLM research, I am making
 a running list with relevant links. I might try to add summaries or
