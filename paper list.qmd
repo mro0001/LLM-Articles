@@ -1,6 +1,8 @@
 ---
 title: "Overview"
-format: html
+format: 
+  gfm:
+    output-file: "README.md"
 editor: visual
 ---
 
